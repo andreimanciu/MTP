@@ -1,0 +1,40 @@
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.exe.config
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.exe
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.pdb
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csprojAssemblyReference.cache
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.Form1.resources
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.Properties.Resources.resources
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.GenerateResource.cache
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.CoreCompileInputs.cache
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.exe
+C:\Users\cioba\source\repos\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.pdb
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.exe.config
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.exe
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.pdb
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csprojAssemblyReference.cache
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.Form1.resources
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.Properties.Resources.resources
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.GenerateResource.cache
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.CoreCompileInputs.cache
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.exe
+D:\AN 3\MTP\Teme\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.pdb
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.exe.config
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.exe
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\bin\Debug\Lab2MTP.pdb
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.AssemblyReference.cache
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.Form1.resources
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.Properties.Resources.resources
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.GenerateResource.cache
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.csproj.CoreCompileInputs.cache
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.exe
+C:\Users\Luci\Desktop\Lab2MTP\Lab2MTP\obj\Debug\Lab2MTP.pdb
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\bin\Debug\Lab2MTP.exe.config
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\bin\Debug\Lab2MTP.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\bin\Debug\Lab2MTP.pdb
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.Form1.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.Properties.Resources.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab2_MTP_Laiu Lucian-Laurentiu\Lab2MTP\obj\Debug\Lab2MTP.pdb

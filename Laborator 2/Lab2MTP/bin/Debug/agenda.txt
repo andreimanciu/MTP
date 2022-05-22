@@ -1,0 +1,6 @@
+Nume: a
+Categorie: Prieteni
+Data nasterii: 23.05.2022
+Telefon: a
+Adresa: a
+-----------------------
