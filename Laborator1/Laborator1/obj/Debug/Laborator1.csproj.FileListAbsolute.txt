@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\bin\Debug\Laborator1.exe.config
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\bin\Debug\Laborator1.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\bin\Debug\Laborator1.pdb
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.Form1.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.Properties.Resources.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Laborator1\Laborator1\obj\Debug\Laborator1.pdb
