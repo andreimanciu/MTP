@@ -1,0 +1,22 @@
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\bin\Debug\Lab4MTP.exe.config
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\bin\Debug\Lab4MTP.exe
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\bin\Debug\Lab4MTP.pdb
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.csprojAssemblyReference.cache
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.Form1.resources
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.Form2.resources
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.Properties.Resources.resources
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.csproj.GenerateResource.cache
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.csproj.CoreCompileInputs.cache
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.exe
+C:\Users\cioba\source\repos\Lab4MTP\Lab4MTP\obj\Debug\Lab4MTP.pdb
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\bin\Debug\Lab4MTP.exe.config
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\bin\Debug\Lab4MTP.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\bin\Debug\Lab4MTP.pdb
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.Form1.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.Form2.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.Properties.Resources.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab4_MTP_Laiu Lucian-Laurentiu\Lab4MTP\obj\Debug\Lab4MTP.pdb

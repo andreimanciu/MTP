@@ -1,0 +1,26 @@
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\bin\Debug\Lab3MTP.exe.config
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\bin\Debug\Lab3MTP.exe
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\bin\Debug\Lab3MTP.pdb
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.csprojAssemblyReference.cache
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.Form2.resources
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.Properties.Resources.resources
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.csproj.GenerateResource.cache
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.csproj.CoreCompileInputs.cache
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.exe
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.pdb
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.Form3.resources
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.Form4.resources
+C:\Users\cioba\source\repos\Lab3MTP\Lab3MTP\obj\Debug\Lab3MTP.Form1.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\bin\Debug\Lab3MTP.exe.config
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\bin\Debug\Lab3MTP.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\bin\Debug\Lab3MTP.pdb
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.Form1.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.Form2.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.Form3.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.Form4.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.Properties.Resources.resources
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.exe
+C:\Users\andre\Desktop\UPT\an 2\sem 2\MTP\Lab3_MTP_Laiu Lucian-Laurentiu\Lab3MTP\obj\Debug\Lab3MTP.pdb
